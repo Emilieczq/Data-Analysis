@@ -44,19 +44,19 @@
 urllib3是我选择下载的库，在书中（第253页）提示要求下载 urllib2，该库已经过时，无法下载，下载之后的import语句也发生改变，详细情况请看代码。
 
 ### 条形图
-运行 IPython Notbook 第一部分的代码，可以得到 2018 年美国人口最多的前五个洲的人口统计条形图。
+运行 IPython Nootbook 相应部分的代码，可以得到 2018 年美国人口最多的前五个洲的人口统计条形图。
 <p align="center">
  <img src="javascript_ipython_examples/output_1.png" width="500"/>
 </p>
 
 ### 簇状条形图
-运行 IPython Notbook 第一部分的代码，前面五个国家的 2015-2018 四年的人口统计簇状条形图。
+运行 IPython Nootbook 相应部分的代码，前面五个国家的 2015-2018 四年的人口统计簇状条形图。
 <p align="center">
  <img src="javascript_ipython_examples/output_2.png" width="500"/>
 </p>
 
 ### 地区分布图
-运行 IPython Notbook 第一部分的代码，可以得到美国人口地区分布图。
+运行 IPython Nootbook 相应部分的代码，可以得到美国人口地区分布图。
 <p align="center">
  <img src="javascript_ipython_examples/output_3.png" width="500"/>
 </p>
